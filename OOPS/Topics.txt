@@ -1,0 +1,3 @@
+Yes, all STL (Standard Template Library) components in C++ are implemented using classes and objects
+
+constructor should have same name as class....

@@ -1,13 +1,3 @@
-/*
-  -- class and object
-  -- constructor and destruter
-  -- Abstraction
-  -- Encapsulation
-  -- Inheritance
-  -- Polymorphism
-
-*/
-
 
 /*
      OOP's is  object orieanted programming .
@@ -52,7 +42,7 @@ int main()
 using namespace std;
 
 class Student{
-public:
+  public:
   string name;
   int rollno;
   string standard;

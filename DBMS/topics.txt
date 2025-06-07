@@ -1,0 +1,6 @@
+Redundacy--   
+Data redundancy occurs when the same piece of information is stored more than once in a database, either in different tables or even within the same table. 
+
+What are clustered and non-clustered Indexes? 
+
+What is VIEW ?
