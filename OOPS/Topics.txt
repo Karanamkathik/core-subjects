@@ -1,3 +1,9 @@
 Yes, all STL (Standard Template Library) components in C++ are implemented using classes and objects
 
 constructor should have same name as class....
+multilple constructor
+    a class can have multiple constructor ..but they should have different parameters
+
+vartual functio : virtual function is a member function derived using virtual keyword in the base class and its function is overridden in the derived class.
+it is used to achieve runtime polymorphism.
+
